@@ -1,0 +1,139 @@
+.navba{
+  background-color: #32E535;
+  height: 75px;
+  
+}
+
+.span-sessorium{
+  font-size: 30px;
+  color: white;
+  
+}
+
+.span-sessorium2{
+  font-size: 20px;
+  color: white;
+  margin-right: 100px;
+}
+
+
+.form-espacar{
+  margin-top: 30px;
+  width: 600px;
+}
+
+.centralizar-nav{
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.descer{
+  margin-top: 30px;
+}
+
+.imagem{
+  display: flex;
+  justify-content: center;
+}
+
+.botao{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.corlink{
+  color: white;
+  background-color: #32E535;
+  text-decoration: none;
+  height: 40px;
+  width: 50%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  border-radius: 10px !important;
+}
+
+.linha{
+  border: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.37);
+  margin-top: 30px;
+  margin-bottom: 30px;
+  
+}
+
+.espaco{
+  margin-bottom: 70px;
+}
+
+.endereco{
+  width: 450px;
+}
+
+Button{
+  background-color: #32E535;
+  width: 50%;
+  height: 40px;
+  border: none;
+  border-radius: 10px !important;
+  color: white;
+  font-size: 17px !important;
+  
+}
+
+img{
+  height: 80px;
+}
+
+.container{
+  width: 100% !important;
+  margin-top: 30px;
+}
+
+.titulo{
+  text-align: center;
+  font-weight: 300;
+}
+
+.frase{
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.a{
+  text-align: center;
+  margin-top: 30px ;
+  text-decoration: none !important;
+}
+
+.form{
+  padding: 30px;
+  border: 1px solid rgba(0, 0, 0, 0.089);
+  border-radius: 10px;
+  width: 100%;
+  background-color: white;
+  box-shadow: 1px;
+
+}
+
+.centralizarbotao{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+}
+
+.input{
+  border-radius: 10px !important;
+}
+
+.form-padding-administrador{
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
