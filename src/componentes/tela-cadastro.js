@@ -86,7 +86,7 @@ const TelaCadastro = () => {
                                 <Col>
                                     <Form.Group className="mb-3" controlId="formBasicEmail">
                                         <Form.Label>Número:</Form.Label>
-                                        <Form.Control type="number" placeholder="N° da escola" required/>
+                                        <Form.Control type="text" placeholder="N° da escola" required/>
 
                                     </Form.Group>
 
