@@ -18,7 +18,7 @@ const TelaCadastro = () => {
                         <Form className="form-espacar">
                             <h1 class="titulo">Informações básicas</h1>
                             <Form.Group className="mb-3" controlId="formBasicEmail">
-                                <Form.Label>PIKA:</Form.Label>
+                                <Form.Label>Nome:</Form.Label>
                                 <Form.Control type="text" id="camponome" placeholder="Digite o nome da escola" required />
 
                             </Form.Group>
